@@ -1,0 +1,26 @@
+.row {
+    display: flex;
+    margin-bottom: 10px;
+    overflow: auto;
+}
+
+.pie,
+.tpie {
+    width: 400px;
+    height: 400px;
+    border: 1px solid #000;
+    margin-right: 5px;
+}
+
+.line,
+.bar {
+    width: 800px;
+    height: 400px;
+    border: 1px solid #000;
+    margin-bottom: 10px;
+}
+
+.header-mid {
+    text-align: center;
+    font-size: 1.5em;
+}
